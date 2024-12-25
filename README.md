@@ -1,9 +1,5 @@
 # Image Processor App
-This application was created for an assignment in which I was tasked with creating an experience that allows a user to modify a photo using image processing techniques. 
-
-```
-![Image processor app screenshot](/Thumbnail image processor.png "Image processor")
-```
+This application was created for an assignment in which I was tasked with creating an experience that allows a user to modify a photo using image processing techniques. I used openFrameworks and the [ofxImGui](https://github.com/jvcleave/ofxImGui) and [ofxMSAInteractiveObject](https://github.com/memo/ofxMSAInteractiveObject/tree/master) addons.
 
 I created an application that has several features:
 
